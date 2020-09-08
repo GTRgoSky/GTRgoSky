@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Wings! 👋🌱
-> This is my blob, I sometimes write some notes and summaries here。
+> I'm glad you noticed me, I sometimes write some notes and summaries in my blogs：https://gtrgosky.github.io。
 
 **Languages and Tools:**
 
